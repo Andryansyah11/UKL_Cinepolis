@@ -1,7 +1,7 @@
 # cinepolis
 ![alt text](assets/ss/splash.png)
 ![alt text](assets/ss/login.png)
-![alt text]("assets/ss/home.png)
+![alt text](assets/ss/home.png)
 ![alt text](assets/ss/booking.png)
 ![alt text](assets/ss/movie.png)
 ![alt text](assets/ss/cinema.png)
