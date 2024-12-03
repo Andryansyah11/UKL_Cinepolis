@@ -1,5 +1,5 @@
 # cinepolis
-![image]("ss/splash.png")
+![alt text](assets/ss/splash.png)
 ![image]("assets/ss/login.png")
 ![image]("assets/ss/home.png")
 ![image]("assets/ss/booking.png")
