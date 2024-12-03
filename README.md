@@ -1,5 +1,10 @@
 # cinepolis
-
+![image]("assets/ss/splash.png")
+![image]("assets/ss/login.png")
+![image]("assets/ss/home.png")
+![image]("assets/ss/booking.png")
+![image]("assets/ss/movie.png")
+![image]("assets/ss/cinema.png")
 A new Flutter project.
 
 ## Getting Started
